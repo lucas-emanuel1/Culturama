@@ -1,0 +1,23 @@
+.container {
+  max-width: 1200px;
+  margin-inline: auto;
+}
+.bg-black {
+  background: #000;
+  width: 100vw;
+}
+.flex {
+  display: flex;
+}
+.align-items-center {
+  align-items: center;
+}
+.justify-content-space-between {
+  justify-content: space-between;
+}
+.gap-8 {
+  gap: 8px;
+}
+.gap-100 {
+  gap: 100px;
+}

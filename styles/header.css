@@ -1,0 +1,21 @@
+.search {
+  position: relative;
+  width: 384px;
+  input {
+    width: 100%;
+    background: transparent;
+    border: 1px inset #fff;
+    border-radius: 10px;
+    padding: 10px 16px;
+    color: #fff;
+  }
+  img {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 16px;
+  }
+}
+ul {
+  color: #fff;
+}
