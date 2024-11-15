@@ -2,6 +2,7 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 28px 24px;
+  margin-bottom: 114px;
 }
 .container h3 {
   margin-block: 24px;
