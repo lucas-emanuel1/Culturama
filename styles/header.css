@@ -1,6 +1,10 @@
 header {
   padding-block: 8px;
 }
+header img {
+  height: fit-content;
+  width: fit-content;
+}
 .search {
   position: relative;
   width: 384px;

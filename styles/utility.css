@@ -9,6 +9,15 @@
 .flex {
   display: flex;
 }
+.grid {
+  display: grid;
+}
+.grid-template-col-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+.grid-template-col-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
 .align-items-center {
   align-items: center;
 }
@@ -18,6 +27,24 @@
 .gap-8 {
   gap: 8px;
 }
+.gap-24 {
+  gap: 24px;
+}
+.gap-35 {
+  gap: 35px;
+}
 .gap-100 {
   gap: 100px;
+}
+.bg-yellow {
+  background: #FFC756;
+}
+.bg-orange {
+  background: #F66139;
+}
+.bg-lavender {
+  background: #7F8FFE;
+}
+.bg-green {
+  background: #56B78C;
 }

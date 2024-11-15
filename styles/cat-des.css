@@ -1,0 +1,21 @@
+.categoria > div {
+  gap: 16px 24px;
+}
+.categoria span {
+  display: inline-block;
+  text-align: center;
+  color: #FFF;
+  font-weight: 700;
+  padding-block: 20px;
+}
+
+.destaque {
+  align-items: end;
+}
+.rectangle-destaque img {
+  height: 100%;
+}
+.destaque img {
+  width: fit-content;
+  height: fit-content;
+}
